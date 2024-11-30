@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "nzhfxkIi5NrgbHnOCP6dTgYeKHSXJYb+ds2bD3HrUtQ=",
+  "Source": "Backend",
+  "BasePath": "_content/Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Backend\\wwwroot",
+      "Source": "Backend",
+      "ContentRoot": "C:\\Szakdoga\\Backend\\wwwroot\\",
+      "BasePath": "_content/Backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
